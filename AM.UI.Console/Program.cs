@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using AM.ApplicationCore.Domain;
 
-Console.WriteLine("Hello, World!");
 
 Plane plane = new Plane();
 plane.Capacity = 100;
