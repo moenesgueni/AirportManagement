@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using AM.ApplicationCore.Domain;
 
-
 Plane plane = new Plane();
 plane.Capacity = 100;
 plane.ManufactureDate = DateTime.Now;
